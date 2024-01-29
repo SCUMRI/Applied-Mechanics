@@ -1,0 +1,33 @@
+Data Type, Quick Measurement Results
+Start Time, 2023-12-11 20:47:03
+Sample ID, Meso aft dbl 3
+Weight (g), 0.037900
+Average Volume (cm3), 0.118051
+Average Density (g/cm3), 0.321048
+Percent Variance, 1.088430
+Test Direction, Reference First
+Cell Size, Medium
+EQ Method, Pressure
+EQ Stability, Normal
+Minimum Runs, 3
+Maximum Runs, 3
+Finish Criteria, 0.1
+Gas Type, Nitrogen
+Preparation Method, Pulse
+Number of Pulses, 5
+Flow Rate, Monolith
+Number To Average, 3
+Test Pressure (bar), 0.689476
+Reference Chamber (VR, cm3), 6.774425
+Sample chamber (VC, cm3), 5.885984
+Target Temperature (C), 20.000000
+Serial Number, 1050044860
+Software Version, 1.002.020
+Runtime, 451
+Test Aborted, False
+Calculated VS (cm3), 0.118051
+Total Data Points, 3
+n, p0 [bar], pi [bar], pf [bar], vol [cm3], temp [C], time [hh:mm:ss], density [g/cm3]
+1, 1.021240, 1.757322, 1.418754, 0.116124, 20.001856, 20:50:58, 0.326377
+2, 1.021313, 1.751101, 1.415499, 0.118366, 19.997314, 20:52:47, 0.320192
+3, 1.021310, 1.746601, 1.413107, 0.119663, 19.996532, 20:54:34, 0.316724

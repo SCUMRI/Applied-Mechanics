@@ -1,0 +1,32 @@
+Data Type, Quick Measurement Results
+Start Time, 2023-12-11 17:45:00
+Sample ID, Mesocell dbl 2
+Weight (g), 0.046500
+Average Volume (cm3), 0.084766
+Average Density (g/cm3), 0.548571
+Percent Variance, 1.547100
+Test Direction, Reference First
+Cell Size, Medium
+EQ Method, Pressure
+EQ Stability, Normal
+Minimum Runs, 3
+Maximum Runs, 15
+Finish Criteria, 0.1
+Gas Type, Nitrogen
+Preparation Method, Pulse
+Number of Pulses, 5
+Flow Rate, Monolith
+Number To Average, 3
+Test Pressure (bar), 0.689476
+Reference Chamber (VR, cm3), 6.774425
+Sample chamber (VC, cm3), 5.885984
+Target Temperature (C), 20.000000
+Serial Number, 1050044860
+Software Version, 1.002.020
+Runtime, 459
+Test Aborted, True
+Total Data Points, 3
+n, p0 [bar], pi [bar], pf [bar], vol [cm3], temp [C], time [hh:mm:ss], density [g/cm3]
+1, 1.021205, 1.749035, 1.413320, 0.085946, 20.005030, 17:48:53, 0.541038
+2, 1.021285, 1.755557, 1.416858, 0.085553, 20.002539, 17:50:40, 0.543526
+3, 1.021430, 1.753701, 1.415838, 0.082799, 19.997753, 17:52:39, 0.561604

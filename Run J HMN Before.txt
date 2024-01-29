@@ -1,0 +1,32 @@
+Data Type, Quick Measurement Results
+Start Time, 2023-12-11 18:12:58
+Sample ID, Mesocell copper 2
+Weight (g), 0.038700
+Average Volume (cm3), 0.130063
+Average Density (g/cm3), 0.297547
+Percent Variance, 0.814238
+Test Direction, Reference First
+Cell Size, Medium
+EQ Method, Pressure
+EQ Stability, Normal
+Minimum Runs, 3
+Maximum Runs, 15
+Finish Criteria, 0.1
+Gas Type, Nitrogen
+Preparation Method, Pulse
+Number of Pulses, 5
+Flow Rate, Monolith
+Number To Average, 3
+Test Pressure (bar), 0.689476
+Reference Chamber (VR, cm3), 6.774425
+Sample chamber (VC, cm3), 5.885984
+Target Temperature (C), 20.000000
+Serial Number, 1050044860
+Software Version, 1.002.020
+Runtime, 483
+Test Aborted, True
+Total Data Points, 3
+n, p0 [bar], pi [bar], pf [bar], vol [cm3], temp [C], time [hh:mm:ss], density [g/cm3]
+1, 1.021658, 1.757013, 1.419268, 0.131528, 20.003956, 18:17:03, 0.294234
+2, 1.021663, 1.753900, 1.417544, 0.130187, 20.001612, 18:19:02, 0.297264
+3, 1.021640, 1.757331, 1.419335, 0.128475, 19.997120, 18:21:01, 0.301227

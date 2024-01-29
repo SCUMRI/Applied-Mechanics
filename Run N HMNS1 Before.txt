@@ -1,0 +1,32 @@
+Data Type, Quick Measurement Results
+Start Time, 2023-12-11 18:42:17
+Sample ID, Mesocell barium 1
+Weight (g), 0.034700
+Average Volume (cm3), 0.151950
+Average Density (g/cm3), 0.228365
+Percent Variance, 0.700584
+Test Direction, Reference First
+Cell Size, Medium
+EQ Method, Pressure
+EQ Stability, Normal
+Minimum Runs, 3
+Maximum Runs, 15
+Finish Criteria, 0.1
+Gas Type, Nitrogen
+Preparation Method, Pulse
+Number of Pulses, 5
+Flow Rate, Monolith
+Number To Average, 3
+Test Pressure (bar), 0.689476
+Reference Chamber (VR, cm3), 6.774425
+Sample chamber (VC, cm3), 5.885984
+Target Temperature (C), 20.000000
+Serial Number, 1050044860
+Software Version, 1.002.020
+Runtime, 472
+Test Aborted, True
+Total Data Points, 3
+n, p0 [bar], pi [bar], pf [bar], vol [cm3], temp [C], time [hh:mm:ss], density [g/cm3]
+1, 1.021109, 1.754925, 1.418585, 0.153547, 20.003759, 18:46:13, 0.225990
+2, 1.021365, 1.757057, 1.419777, 0.151020, 19.996387, 18:48:11, 0.229771
+3, 1.021534, 1.749754, 1.415908, 0.151283, 19.995068, 18:50:09, 0.229371
